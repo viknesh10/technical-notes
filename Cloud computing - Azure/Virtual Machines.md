@@ -17,3 +17,17 @@
 		* If you can use another Azure Service instead, its often worth it (lesser price)
 	* Maintenance
 		* A lot of maintenance with VMs or updates, patches and security concerns
+
+## Scale sets
+* A group of identical, load balanded VMs
+* Benefits
+	* Multiple VMs
+		* Simple to manage multiple identical VMs using a load balancer
+	* High availability
+		* If one VM fails or stops, the others in the scale set step up and keep working
+	* Auto scaling
+		* Automatically match demand by adding or removing VMs from the scale set
+	* Large scale
+		* Run upto 1000 VMs in a single scale set
+	* No extra cost
+		* No added costs for using scale sets
