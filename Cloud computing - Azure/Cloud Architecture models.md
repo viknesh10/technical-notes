@@ -19,6 +19,7 @@
 
 ## Hybrid cloud
 * Combines the best of both worlds
+* [[Azure Active Directory (AAD)]] helps setup the authentication between your on-prem and Azure servers
 * Pro's
 	* Avoid disuptions and outages
 	* Adhere to regulation, governance, etc

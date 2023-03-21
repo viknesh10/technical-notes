@@ -31,3 +31,9 @@
 		* Run upto 1000 VMs in a single scale set
 	* No extra cost
 		* No added costs for using scale sets
+## Spot VMs
+* Save money by using unused capacity
+* Can be evicted anytime
+* Use for interruptible non-critical workloads
+* Use with Scale sets
+* Set a max price for the Spot VM

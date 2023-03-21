@@ -18,19 +18,7 @@
             }
           },
           {
-            "id": "3505e7064491a294",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af2712bfa7fd5fd9",
+            "id": "f23c0c9046b378b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,31 +30,19 @@
             }
           },
           {
-            "id": "39f86dc015c56e75",
+            "id": "9ca98b87d86ae2b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "App Services.md",
+                "file": "Pricing Factors.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4772b2ddb9ddf8df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Containers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28ca543d6ca1a881",
+            "id": "4d7474b24d3b6c59",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -76,82 +52,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "30d3e329c7cc38db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure Container Instances.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57dde5797568f18f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure Kubernetes Service.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aed32e43e9eeb210",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure Container Registry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c49bf72dd2d2819",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Language of cloud computing.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1fa2c9c85bed806",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure Region.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f0889c562c73e4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure Architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "management",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -217,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure Functions.md",
+                "file": "Pricing Factors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure Functions.md",
+                "file": "Pricing Factors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure Functions.md"
+                "file": "Pricing Factors.md"
               }
             }
           }
@@ -278,30 +181,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3505e7064491a294",
+  "active": "9ca98b87d86ae2b7",
   "lastOpenFiles": [
-    "Azure Functions.md",
-    "Azure Container Registry.md",
-    "Azure Kubernetes Service.md",
-    "Kubernetes.md",
-    "Azure Container Instances.md",
-    "Containers.md",
-    "Cloud Architecture models.md",
-    "App Services.md",
     "Virtual Machines.md",
-    "Azure Architecture.md",
-    "Availability Zones.md",
-    "Azure Resource Manager.md",
-    "Resource Groups.md",
-    "Azure Region.md",
-    "Language of cloud computing.md",
+    "Pricing Factors.md",
+    "Azure Subscription.md",
+    "Azure Monitor Alerts.md",
+    "Azure Monitor.md",
+    "Azure Arc.md",
+    "Azure Service Health.md",
+    "Cloud Architecture models.md",
     "Azure Portal.md",
-    "Platform-as-a-Service (PaaS).md",
-    "Serverless.md",
-    "Software-as-a-Service (SaaS).md",
-    "Infrastructure-as-a-Service (IaaS).md",
-    "Cloud Shell.md",
-    "High availability.md",
-    "Azure CLI.md"
+    "Azure Policy.md",
+    "Cloud Adoption Framework.md",
+    "Application insights.md",
+    "Log Analytics.md",
+    "Azure Container Instances.md",
+    "Azure Resource Manager.md",
+    "Azure Blueprints.md",
+    "Role-Based Access Control (RBAC).md",
+    "Azure Active Directory Domain Services (AADDS).md",
+    "Azure Tenant.md",
+    "Azure Active Directory (AAD).md",
+    "Premium file shares.md",
+    "Premium page blobs.md",
+    "Premium block blobs.md",
+    "Premium Performance.md",
+    "Storage Redundancy.md",
+    "Standard Performance.md"
   ]
 }
